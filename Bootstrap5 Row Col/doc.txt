@@ -1,0 +1,20 @@
+[BOOTSTRAP 5]
+
+ROW, COL
+
+ROW= .row, .row-cols
+
+COL= .col
+
+xxl, xl, lg, md, sm
+
+gx-1= 4px or .25rem
+gx-2= 8px or .5rem
+gx-3= 16px or 1rem
+gx-4= 24px or 1.5rem
+gx-5= 48px or 3rem
+
+
+
+
+
